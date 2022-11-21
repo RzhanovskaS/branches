@@ -1,0 +1,10 @@
+App: Investmate
+QA: Rzhanovska S.
+Environment: iPhone XR (iOS 15.6.1)
+Smoke testing
+Main Actions:
+1.Установить приложение на девайс
+2.Удалить приложение успешно
+3. Установить приложение после удаления 
+4. Запустить приложение 
+5. Запустить целевую ссылку Capital.com в настройках
